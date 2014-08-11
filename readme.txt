@@ -51,7 +51,8 @@ Code Description
 29 partly cloudy (night)
 30 partly cloudy (day)
 31 clear (night)
-32 sunny 33 fair (night)
+32 sunny (day)
+33 fair (night)
 34 fair (day)
 35 mixed rain and hail
 36 hot
