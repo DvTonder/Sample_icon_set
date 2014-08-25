@@ -9,7 +9,7 @@
    - XHDPI = 128x128
    - XXHDPI = 192x192
    - XXXHDPI = 256x256
-4) Change the package name as appropriate
+4) Change the package name and metadata values as appropriate
 5) Change the app_name string in values.xml (this is the name that displays in the Icon picker in the app)
 6) Change the ic_launcher.png image as appropriate
 7) Build and intall
