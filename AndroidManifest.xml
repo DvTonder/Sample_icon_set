@@ -21,7 +21,7 @@
                  the user. Valid values include:
 
                  always - Apply the user chosen color whenever the icon is shown.
-                 ifneeded - Only apply the user chosen color if it is required. This
+                 ifNeeded - Only apply the user chosen color if it is required. This
                             mostly applies to the icon being shown in the weather extension.
                  never - (default) Never apply any color masking to the icons. This will
                          cause them to not be selectable as weather extension icon set.
