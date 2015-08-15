@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name" translatable="false">Sample_icon_set</string>
+    <string name="play_store">Get Chronus</string>
+    <string name="play_store_title">Chronus isn\'t installed</string>
+    <string name="play_store_description">This application is an icon pack for Chronus\'s widgets.
+        \nTo use %1$s you need to download Chronus first from the Play Store.</string>
+    <string name="hide_app">Hide app icon</string>
+    <string name="hide_app_title">Welcome</string>
+    <string name="hide_app_description">Congrats! You\'ve successfully installed %1$s, go to widget settings and change the icon pack.
+        \nTouch the button below to hide the app icon from launcher.</string>
+    <string name="hide_toast">Application hidden! You may have to restart the launcher or the device to see changes.</string>
+</resources>

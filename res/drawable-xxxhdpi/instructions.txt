@@ -1,1 +1,0 @@
-Include the same images weather_0 to weather_47 and weather_na at a 256x256 image size
