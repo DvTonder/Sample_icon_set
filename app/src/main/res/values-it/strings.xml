@@ -1,0 +1,11 @@
+<resources>
+    <string name="play_store">Ottieni Chronus</string>
+    <string name="play_store_title">Chronus non è installato</string>
+    <string name="play_store_description">Questa applicazione è un pacchetto di icone per i widget di Chronus.
+        \nPer usare %1$s devi prima scaricare Chronus dal Play Store.</string>
+    <string name="hide_app">Nascondi icona</string>
+    <string name="hide_app_title">Benvenuto</string>
+    <string name="hide_app_description">Congratulazioni! Hai installato %1$s, vai nelle impostazioni del widget e cambia il pacchetto di icone.
+        \nPremi sul pulsante qui sotto per nascondere l\'icona dell\'app dal launcher.</string>
+    <string name="hide_toast">Applicazione nascosta! Potresti dover riavviare il launcher o il dispositivo per vedere modifiche.</string>
+</resources>
