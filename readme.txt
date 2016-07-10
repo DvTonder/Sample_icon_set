@@ -9,11 +9,12 @@
    - XHDPI = 128x128
    - XXHDPI = 192x192
    - XXXHDPI = 256x256
-4) Moon phase images are named moon_xx.png where xx is the percentage visible in 5% increments (0, 5, 10, 15, 20 to 95)
-5) Change the package name and metadata values as appropriate
-6) Change the app_name string in values.xml (this is the name that displays in the Icon picker in the app)
-7) Change the ic_launcher.png image as appropriate
-8) Build and intall
+4) Moon phase images are named moon_xx.png. You need at least 8 drawables at 0, 15, 25, 35, 50, 65, 75, 85 and 100. Max is 100 drawables
+5) Customize its moon.xml in the drawable folder to match the drawables you created 
+6) Change the package name and metadata values as appropriate
+7) Change the app_name string in values.xml (this is the name that displays in the Icon picker in the app)
+8) Change the ic_launcher.png image as appropriate
+9) Build and intall
 
 Yahoo weather codes:
 ====================
@@ -72,23 +73,5 @@ na data not available
 
 Moon Phase codes:
 =================
-moon_0
-moon_5
-moon_10
-moon_15
-moon_20
-moon_25
-moon_30
-moon_35
-moon_40
-moon_45
-moon_50
-moon_55
-moon_60
-moon_65
-moon_70
-moon_75
-moon_80
-moon_85
-moon_90
-moon_95
+- Moon phase images are named moon_xx.png. You need at least 8 drawables at 0, 15, 25, 35, 50, 65, 75, 85 and 100. Max is 100 drawables
+- Customize its moon.xml in the drawable folder to match the drawables you created 
