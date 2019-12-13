@@ -2,7 +2,7 @@
 ==========================================================
 
 1) Replace the images in this set with your own images using the Yahoo Weather Code Mapping below
-2) The Images need to be named weather_[number or na].png
+2) The Images need to be named weather_[number or na].png (or use the WebP format for smaller files)
 3) For best results, image dimensions should be as follows:
    - MHDPI = 64x64
    - HDPI = 90x90
@@ -73,5 +73,6 @@ na data not available
 
 Moon Phase codes:
 =================
-- Moon phase images are named moon_xx.png. You need at least 8 drawables at 0, 15, 25, 35, 50, 65, 75, 85 and 100. Max is 100 drawables
+- Moon phase images are named moon_xx.png (or use the WebP format for smaller files)
+- You need at least 8 drawables at 0, 15, 25, 35, 50, 65, 75, 85 and 100. Max is 100 drawables
 - Customize its moon.xml in the drawable folder to match the drawables you created 
