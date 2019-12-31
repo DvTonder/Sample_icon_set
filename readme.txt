@@ -16,11 +16,10 @@
 8) Change the ic_launcher.png image as appropriate
 9) Build and intall
 
-Yahoo weather codes:
-====================
-http://developer.yahoo.com/weather/
+Original Yahoo weather codes:
+=============================
+Chronus icon sets use the original Yahoo weather codes. We do an internal mapping of the new Yahoo API codes to the old ones for the Yahoo provider as well as internal mappings for all other provider codes to the set below. 
 
-Code Description
 0 tornado
 1 tropical storm
 2 hurricane
@@ -33,7 +32,7 @@ Code Description
 9 drizzle
 10 freezing rain
 11 showers
-12 showers
+12 Rain
 13 snow flurries
 14 light snow showers
 15 blowing snow
@@ -64,7 +63,7 @@ Code Description
 40 scattered showers (day)
 41 heavy snow
 42 scattered snow showers (night)
-43 heavy snow
+43 Blizzard
 44 partly cloudy (night)
 45 thundershowers (night)
 46 snow showers (night)
